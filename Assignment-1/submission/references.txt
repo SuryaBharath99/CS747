@@ -1,0 +1,11 @@
+I have refered only to numpy documentation for most of purpose.
+
+1.  https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.seed.html
+
+2. https://numpy.org/doc/stable/reference/random/generated/numpy.random.binomial.html
+
+3.https://www.geeksforgeeks.org/log-functions-python/
+
+4.https://www.geeksforgeeks.org/reading-writing-text-files-python/
+
+5.https://stackoverflow.com/questions/5284646/rank-items-in-an-array-using-python-numpy-without-sorting-array-twice
