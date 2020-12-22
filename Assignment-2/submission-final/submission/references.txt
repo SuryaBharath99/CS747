@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/3277503/how-to-read-a-file-line-by-line-into-a-list
+
+https://www.youtube.com/watch?v=7yZ5xxdkTb8
+
+https://coin-or.github.io/pulp/
+
+https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
