@@ -1,0 +1,4 @@
+1. Sutton & barto text book 
+2. class slides of week 9
+3. https://www.tutorialspoint.com/python/list_max.htm
+4.https://numpy.org/doc/stable/reference/generated/numpy.matmul.html 
